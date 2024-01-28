@@ -1,3 +1,6 @@
+![which-development-job-is-right-for-you](https://github.com/amaitou/LiteWebMagic/assets/49293816/25207e3c-e24b-40d7-b0f6-10cbed30a0be)
+
+---
 # LiteWebMagic
 
 Welcome to LiteWebMagic, your gateway to simple yet enchanting front-end projects! This repository is a curated collection of lightweight web creations that prioritize elegance and user experience.
