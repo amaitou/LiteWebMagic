@@ -1,0 +1,15 @@
+[submodule "HKG"]
+	path = HKG
+	url = git@github.com:amaitou/HKG.git
+[submodule "MicroOne"]
+	path = MicroOne
+	url = git@github.com:amaitou/MicroOne.git
+[submodule "OpenSchool"]
+	path = OpenSchool
+	url = git@github.com:amaitou/OpenSchool.git
+[submodule "ExtraJuice"]
+	path = ExtraJuice
+	url = git@github.com:amaitou/ExtraJuice.git
+[submodule "TrueFix"]
+	path = TrueFix
+	url = git@github.com:amaitou/TrueFix.git
